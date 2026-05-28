@@ -24,8 +24,6 @@ CubeOS is a modern Rubik’s Cube timer application made with Python and Tkinter
 
 ## Screenshots
 
-## Screenshots
-
 ### Main Menu
 ![Main Menu](screenshots/CubeOS_menu.png)
 
