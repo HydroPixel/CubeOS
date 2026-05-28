@@ -56,4 +56,4 @@ CubeOS.exe
 
 ## Creator
 
-Made by Aliasgar.
+Made by HydroPixel i.e. Aliasgar.
