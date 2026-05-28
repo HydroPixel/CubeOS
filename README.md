@@ -25,16 +25,16 @@ CubeOS is a modern Rubik’s Cube timer application made with Python and Tkinter
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/CubeOS_menu.png)
+![Main Menu](Screenshots/CubeOS_menu.png)
 
 ### Timer Running
-![Timer Running](screenshots/CubeOS_Running.png)
+![Timer Running](Screenshots/CubeOS_Running.png)
 
 ### Themes
-![Themes](screenshots/CubeOS_Themes.png)
+![Themes](Screenshots/CubeOS_Themes.png)
 
 ### Fullscreen Mode
-![Fullscreen](screenshots/CubeOS_Fullscreen.png)
+![Fullscreen](Screenshots/CubeOS_Fullscreen.png)
 
 ## How To Run
 
